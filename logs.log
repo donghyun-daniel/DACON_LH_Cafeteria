@@ -50779,3 +50779,8 @@ ValueError: Input contains NaN, infinity or a value too large for dtype('float64
 2021-07-20 04:13:18,693:INFO:create_model_container: 0
 2021-07-20 04:13:18,693:INFO:master_model_container: 0
 2021-07-20 04:13:18,693:INFO:display_container: 1
+2021-07-22 17:18:55,680:INFO:Initializing compare_models()
+2021-07-22 17:18:55,681:INFO:compare_models(exclude=None, include=None, fold=10, round=4, sort=MAE, n_select=4, turbo=True, verbose=True)
+2021-07-22 17:18:55,681:INFO:Checking exceptions
+2021-07-22 17:18:55,681:INFO:Preloading libraries
+2021-07-22 17:18:55,681:INFO:Preparing display monitor
